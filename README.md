@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishal-Parihar
 - 👀 I’m interested in Data Science and app/web devlopment
 - 🌱 I’m currently pursuing Btech in computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mini projects to improve myself 
 - 📫 How to reach me ...
 
 <!---
