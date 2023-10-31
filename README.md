@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Pariahr</h1>
 <h3 align="center">A 2nd year engineering student who has keen interest in web devlopment</h3>
-<img align="right" alt="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bvbzxhp06fjjx3rfiky3wgphdzuzorbnx91t7acn&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align="right" alt=""
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-parihar&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-parihar" /> </p>
 
