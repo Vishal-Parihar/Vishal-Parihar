@@ -1,4 +1,4 @@
-![yup](https://github.com/Vishal-Parihar/Codeforces-Solutions/assets/147621166/4747d1ad-cb34-4de7-8d7b-04772853709c)
+![6M8G](https://github.com/Vishal-Parihar/Codeforces-Solutions/assets/147621166/12a184eb-92d6-4787-9164-3ae284495399)
 
 
 
