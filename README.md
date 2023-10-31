@@ -13,7 +13,8 @@
 <a href="https://twitter.com/@vvishal_parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vvishal_parihar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal parihar" height="30" width="40" /></a>
 <a href="https://instagram.com/vishalparihar010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalparihar010" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vishal_parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishal_parihar" height="30" width="40" /></a>
+
+  <a href="https://codeforces.com/profile/vishal_parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishal_parihar" height="30" width="40" /></a>
 </p>
 
 
