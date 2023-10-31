@@ -1,3 +1,4 @@
+![logo](https://leviarista.github.io/github-profile-header-generator/)
 <h1 align="center">Hi 👋, I'm Vishal Pariahr</h1>
 <h3 align="center">A 2nd year engineering student who has keen interest in web devlopment</h3>
 
