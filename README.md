@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishal Parihar</h1>
+![logo](https://github.com/Vishal-Parihar/Vishal-Parihar/blob/main/github-header-image%20(2).png)
+
 <h3 align="center">A 2nd year engineering student who has keen interest in web devlopment</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bvbzxhp06fjjx3rfiky3wgphdzuzorbnx91t7acn&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
