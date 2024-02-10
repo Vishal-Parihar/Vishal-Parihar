@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vvishal_parihar" target="blank"><img src="https://img.shields.io/twitter/follow/@vvishal_parihar?logo=twitter&style=for-the-badge" alt="@vvishal_parihar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++ and front end**
+- 🌱 I’m currently learning **DSA in C++ and front end dev**
 
 - 👯 I’m looking to collaborate on **mini projects**
 
